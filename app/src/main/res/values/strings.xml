@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiThread_Site_Searcher</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="found">Found: %1$d</string>
+    <string name="completed">Completed!</string>
+    <string name="error">Error: %1$s</string>
+    <string name="success">Success</string>
+    <string name="check_input_data">Check input data!</string>
+    <string name="max_value_of_scanned_urls">Max value of scanned Urls</string>
+    <string name="number_of_threads">Number of Threads</string>
+    <string name="text_to_search">Text to search</string>
+    <string name="enter_base_url">Enter Base Url</string>
+    <string name="start">Start!</string>
+    <string name="stop">Stop</string>
+
+</resources>
